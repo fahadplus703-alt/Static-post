@@ -46,7 +46,7 @@ h1{font:800 104px/1.32 Serif;letter-spacing:-.01em}
 h1.m{font-size:84px} h1.s{font-size:72px}
 h1 em,h1 mark{font:italic 400 1.08em/1 Ital;color:var(--y);background:none;padding:0}
 .paper h1 em,.paper h1 mark{color:#C27C00}
-p.sub{font:400 38px/1.55 Hind;color:var(--m)} p.sub b{color:var(--p);font-weight:600}
+p.sub{font:400 38px/1.55 Hind,DM,sans-serif;color:var(--m)} p.sub b{color:var(--p);font-weight:600}
 .paper p.sub{color:#5C5547} .paper p.sub b{color:var(--k)}
 .foot{position:absolute;left:80px;right:80px;bottom:58px;display:flex;justify-content:space-between;align-items:center;font:500 24px DM;color:var(--m);z-index:3}
 .pill{font:600 28px Hind;color:var(--k);background:var(--y);border-radius:999px;padding:12px 30px 8px;display:inline-flex;gap:12px;align-items:center}
