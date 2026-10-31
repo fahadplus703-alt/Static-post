@@ -9,13 +9,13 @@ isAiGenerated false, no AI label).
 Videos already cover motivation, জানেন কি? facts, and কাজের কথা tips
 (relationship / mind / money). Static posts must NOT use those topics.
 
-## Slots and pillars (Dhaka time; videos are 9:00, 17:00, 19:00)
+## Slots and pillars (Dhaka time; videos are 9:00, 17:00, 19:00; carousel moved to 18:00 on 31 Oct 2026)
 | Time  | Template | Pillar (rotate inside the slot) |
 |-------|----------|----------------------------------|
 | 11:00 | engage   | আজকের ধাঁধা (riddle) · এটা নাকি ওটা? (this-or-that) · শূন্যস্থান পূরণ · ইমোজি দেখে প্রবাদ চিনুন · ছোট অংক-পাজল |
 | 13:30 | fact     | শব্দের গল্প (Bangla word origins) · প্রবাদের পেছনের গল্প |
 | 15:30 | tip      | মিথ নাকি সত্যি? (everyday science / health / tech myths) |
-| 21:30 | carousel | নস্টালজিয়া (90s/2000s BD childhood) · ফোনের লুকানো ট্রিক · বাংলাদেশের অচেনা ঘোরার জায়গা · দেশি খাবারের আসল গল্প |
+| 18:00 | carousel | নস্টালজিয়া (90s/2000s BD childhood) · ফোনের লুকানো ট্রিক · বাংলাদেশের অচেনা ঘোরার জায়গা · দেশি খাবারের আসল গল্প |
 
 Rotate so the same sub-pillar doesn't repeat two days running. Riddle answers are revealed
 in the next day's riddle caption ("গতকালের উত্তর: …").
