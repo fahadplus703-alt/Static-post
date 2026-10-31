@@ -1,0 +1,2 @@
+{ "name": "ajaira-gyan-posts", "private": true,
+  "dependencies": { "@fontsource/anek-bangla": "^5", "@fontsource/hind-siliguri": "^5", "@fontsource/signika": "^5" } }
