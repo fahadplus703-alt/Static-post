@@ -113,7 +113,7 @@ def build(p, photos):
     # single posts: engage / fact / tip — optional photo at photos/<id>/00.jpg
     ph = img(photos / "00.jpg")
     cls = "paper" if t == "fact" else ""
-    photo = (f'<div class="ph" style="left:80px;right:80px;bottom:150px;height:470px"><img src="{ph}"></div>') if ph else ""
+    photo = (f'<div class="ph" style="left:80px;right:80px;bottom:150px;height:470px"><img src="{ph}" style="object-position:{p.get("photo_pos", "center")}"></div>') if ph else ""
     hcls = "m" if t == "engage" else ""
     return [page(cls, top(kick) +
         f'<div style="position:absolute;left:80px;right:80px;top:200px;z-index:3">'
