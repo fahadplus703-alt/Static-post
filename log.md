@@ -15,3 +15,9 @@
 - Photos: Magnific flux-2-klein, 10 images (9 + 1 regen for carousel slide 2 garbled text) = 100 credits (~3,337 left)
 - render.py: p.sub falls back to DM Sans for Latin words (iPhone, Gboard)
 - Metricool: all 4 scheduled FB+IG, autoPublish, PENDING (ids 412252048, 412252143, 412252195, 412252287)
+
+## 2026-11-02 (Mon — new volume: 1 static 13:30, carousel only Tue/Fri)
+- 13:30 engage / আজকের ধাঁধা — "যত শুকায়, তত ভেজে — জিনিসটা কী?" (answer: তোয়ালে / গামছা — অন্যকে শুকাতে গিয়ে নিজে ভেজে). Next static type: fact. Reveal answer tomorrow as "গতকালের উত্তর: …"
+- Photo: Magnific flux-2-klein, 1 image (tea stall bench, tea + notebook) = 10 credits (~18,215 left)
+- render.py: optional "photo_pos" (object-position) for single posts
+- Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 413017393)
