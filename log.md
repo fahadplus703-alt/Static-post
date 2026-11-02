@@ -21,3 +21,9 @@
 - Photo: Magnific flux-2-klein, 1 image (tea stall bench, tea + notebook) = 10 credits (~18,215 left)
 - render.py: optional "photo_pos" (object-position) for single posts
 - Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 413017393)
+
+## 2026-11-03 (Tue — 1 static + carousel)
+- 13:30 fact / শব্দের গল্প — রিকশা শব্দটা জাপানি (jinrikisha: jin মানুষ + riki শক্তি + sha গাড়ি; English 1873, short form "rickshaw" 1880s; source: Etymonline). Caption opens with গতকালের উত্তর: তোয়ালে / গামছা. No riddle today. Next static type: tip (মিথ নাকি সত্যি?)
+- 18:00 carousel বাংলাদেশের অচেনা ঘোরার জায়গা — লালাখাল, রাতারগুল, বালিয়াটি জমিদারবাড়ি, কান্তজীর মন্দির, নিঝুম দ্বীপ (sources: Wikipedia, Daily Star, Nijhoom). Next carousel pillar: দেশি খাবারের আসল গল্প
+- Photos: Magnific flux-2-klein, 8 images (7 + 1 regen: first rickshaw came out as an auto-rickshaw) = 80 credits (~4,386 left)
+- Metricool: both scheduled FB+IG, autoPublish, PENDING (ids 414214167 @13:30, 414214358 @18:00)
