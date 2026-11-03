@@ -27,3 +27,8 @@
 - 18:00 carousel বাংলাদেশের অচেনা ঘোরার জায়গা — লালাখাল, রাতারগুল, বালিয়াটি জমিদারবাড়ি, কান্তজীর মন্দির, নিঝুম দ্বীপ (sources: Wikipedia, Daily Star, Nijhoom). Next carousel pillar: দেশি খাবারের আসল গল্প
 - Photos: Magnific flux-2-klein, 8 images (7 + 1 regen: first rickshaw came out as an auto-rickshaw) = 80 credits (~4,386 left)
 - Metricool: both scheduled FB+IG, autoPublish, PENDING (ids 414214167 @13:30, 414214358 @18:00)
+
+## 2026-11-04 (Wed — 1 static, no carousel)
+- 13:30 tip / মিথ নাকি সত্যি? — আঙুল ফোটালে বাত হয় (মিথ: শব্দটা জোড়ার তরলে গ্যাসের বুদবুদ; Donald Unger 60+ বছর শুধু বাম হাত, এক্স-রেতে পার্থক্য/বাত নেই, Ig Nobel 2009; source: Arthritis UK). No riddle. Next static type: engage. Next carousel (Fri) pillar: দেশি খাবারের আসল গল্প
+- Photo: Magnific flux-2-klein, 2 images (1 + 1 regen: first had odd tangled hands) = 20 credits (~4,120 left)
+- Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 415430249)
