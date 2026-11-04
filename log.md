@@ -32,3 +32,8 @@
 - 13:30 tip / মিথ নাকি সত্যি? — আঙুল ফোটালে বাত হয় (মিথ: শব্দটা জোড়ার তরলে গ্যাসের বুদবুদ; Donald Unger 60+ বছর শুধু বাম হাত, এক্স-রেতে পার্থক্য/বাত নেই, Ig Nobel 2009; source: Arthritis UK). No riddle. Next static type: engage. Next carousel (Fri) pillar: দেশি খাবারের আসল গল্প
 - Photo: Magnific flux-2-klein, 2 images (1 + 1 regen: first had odd tangled hands) = 20 credits (~4,120 left)
 - Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 415430249)
+
+## 2026-11-05 (Thu — 1 static, no carousel)
+- 13:30 engage / শূন্যস্থান পূরণ — "অতি লোভে ______ নষ্ট" (answer: তাঁতি — "অতি লোভে তাঁতি নষ্ট"; source: Satt Academy প্রবাদ MCQ, = "All covet, all lost"). Photo of a handloom is the hint. Reveal answer tomorrow as "গতকালের উত্তর: তাঁতি". Next static type: fact. Next carousel (Fri) pillar: দেশি খাবারের আসল গল্প
+- Photo: Magnific flux-2-klein, 1 image (handloom with colorful threads, no people) = 10 credits (~4,110 left)
+- Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 416661289)
