@@ -37,3 +37,9 @@
 - 13:30 engage / শূন্যস্থান পূরণ — "অতি লোভে ______ নষ্ট" (answer: তাঁতি — "অতি লোভে তাঁতি নষ্ট"; source: Satt Academy প্রবাদ MCQ, = "All covet, all lost"). Photo of a handloom is the hint. Reveal answer tomorrow as "গতকালের উত্তর: তাঁতি". Next static type: fact. Next carousel (Fri) pillar: দেশি খাবারের আসল গল্প
 - Photo: Magnific flux-2-klein, 1 image (handloom with colorful threads, no people) = 10 credits (~4,110 left)
 - Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 416661289)
+
+## 2026-11-06 (Fri — 1 static + carousel)
+- 13:30 fact / প্রবাদের গল্প — কলুর বলদ (কলু = ঘানিতে তেল পেষা পেশাজীবী; বলদ ঘানি ঘিরে ঘোরে, চোখ বাঁধা থাকে; meaning একটানা খাটুনি; sources: Banglapedia "Kalu", Satt Academy, Daily Star 2012 ghani feature, bangladeshunlocked blog). Caption opens with গতকালের উত্তর: তাঁতি. No riddle today. Next static type: tip (মিথ নাকি সত্যি?)
+- 18:00 carousel দেশি খাবারের আসল গল্প — ৫ দেশি খাবার আসলে বিদেশি: শিঙাড়া (ফারসি sanbosag, দিল্লি সুলতানি ১৩-১৪ শতক), জিলাপি (zulabiya, ১০ম শতকের Kitab al-Tabikh), কাঁচা মরিচ (আমেরিকা, পর্তুগিজ), আলু (দক্ষিণ আমেরিকা; চাষ নিশ্চিতভাবে ব্রিটিশ আমলে), ফালুদা (পারস্যের faloodeh, মোগল আমল) (sources: Wikipedia Samosa/Jalebi/Falooda, Yale Global, DESIblitz). Next carousel (Tue) pillar: নস্টালজিয়া
+- Photos: Magnific flux-2-klein, 7 images (no regen) = 70 credits (~3,770 left)
+- Metricool: both scheduled FB+IG, autoPublish, PENDING (ids 417891275 @13:30, 417891331 @18:00)
