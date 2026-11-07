@@ -43,3 +43,11 @@
 - 18:00 carousel দেশি খাবারের আসল গল্প — ৫ দেশি খাবার আসলে বিদেশি: শিঙাড়া (ফারসি sanbosag, দিল্লি সুলতানি ১৩-১৪ শতক), জিলাপি (zulabiya, ১০ম শতকের Kitab al-Tabikh), কাঁচা মরিচ (আমেরিকা, পর্তুগিজ), আলু (দক্ষিণ আমেরিকা; চাষ নিশ্চিতভাবে ব্রিটিশ আমলে), ফালুদা (পারস্যের faloodeh, মোগল আমল) (sources: Wikipedia Samosa/Jalebi/Falooda, Yale Global, DESIblitz). Next carousel (Tue) pillar: নস্টালজিয়া
 - Photos: Magnific flux-2-klein, 7 images (no regen) = 70 credits (~3,770 left)
 - Metricool: both scheduled FB+IG, autoPublish, PENDING (ids 417891275 @13:30, 417891331 @18:00)
+
+## 2026-11-07 (Sat)
+- No static run logged for this date (no 11-07 static in repo or Metricool). Metricool: today's 09:00/17:00/19:00 video reels show ERROR "You have reached your Metricool account limit."
+
+## 2026-11-08 (Sun — 1 static, no carousel)
+- 13:30 tip / মিথ নাকি সত্যি? — গোল্ডফিশের মেমোরি ৩ সেকেন্ড (মিথ: Plymouth University goldfish learned a food lever + its 1-hour daily feeding time; Northern Ireland study goldfish avoided shock zone ≥24h; fish remember for months; sources: Practical Fishkeeping, The Naked Scientists). Previous static was a fact post, so no answer reveal. No riddle. Next static type: engage. Next carousel (Tue) pillar: নস্টালজিয়া
+- Photo: Magnific flux-2-klein, 1 image (goldfish bowl on windowsill) = 10 credits (~2,303 left)
+- Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 420033716) — but watch the account-limit errors seen on 11-07
