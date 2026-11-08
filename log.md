@@ -51,3 +51,8 @@
 - 13:30 tip / মিথ নাকি সত্যি? — গোল্ডফিশের মেমোরি ৩ সেকেন্ড (মিথ: Plymouth University goldfish learned a food lever + its 1-hour daily feeding time; Northern Ireland study goldfish avoided shock zone ≥24h; fish remember for months; sources: Practical Fishkeeping, The Naked Scientists). Previous static was a fact post, so no answer reveal. No riddle. Next static type: engage. Next carousel (Tue) pillar: নস্টালজিয়া
 - Photo: Magnific flux-2-klein, 1 image (goldfish bowl on windowsill) = 10 credits (~2,303 left)
 - Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 420033716) — but watch the account-limit errors seen on 11-07
+
+## 2026-11-09 (Mon — 1 static, no carousel)
+- 13:30 engage / আজকের ধাঁধা — "যত বেশি নেবেন, তত বেশি রেখে যাবেন — জিনিসটা কী?" (answer: পায়ের ছাপ / পদক্ষেপ — যত পা ফেলবেন, পেছনে তত ছাপ রেখে যাবেন; classic "the more you take, the more you leave behind" riddle). Photo of footprints on a muddy village path is the hint. Previous static was a myth post, so no answer reveal. Reveal tomorrow as "গতকালের উত্তর: পায়ের ছাপ". Next static type: fact. Next carousel (Tue) pillar: নস্টালজিয়া
+- Photo: Magnific flux-2-klein, 1 image (no regen) = 10 credits (~1,437 left)
+- Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 420836299)
