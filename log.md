@@ -56,3 +56,10 @@
 - 13:30 engage / আজকের ধাঁধা — "যত বেশি নেবেন, তত বেশি রেখে যাবেন — জিনিসটা কী?" (answer: পায়ের ছাপ / পদক্ষেপ — যত পা ফেলবেন, পেছনে তত ছাপ রেখে যাবেন; classic "the more you take, the more you leave behind" riddle). Photo of footprints on a muddy village path is the hint. Previous static was a myth post, so no answer reveal. Reveal tomorrow as "গতকালের উত্তর: পায়ের ছাপ". Next static type: fact. Next carousel (Tue) pillar: নস্টালজিয়া
 - Photo: Magnific flux-2-klein, 1 image (no regen) = 10 credits (~1,437 left)
 - Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 420836299)
+
+## 2026-11-10 (Tue — 1 static + carousel)
+- 13:30 fact / শব্দের গল্প — শ্যাম্পু শব্দটা উপমহাদেশের (Hindi champo, imperative of champna = press/knead muscles; English verb 1762 = massage, hair-washing sense by 1860, soap sense 1866; source: Etymonline). Caption opens with গতকালের উত্তর: পায়ের ছাপ. No riddle today. Next static type: tip (মিথ নাকি সত্যি?)
+- 18:00 carousel নস্টালজিয়া — বিকেলের মাঠের ৫ খেলা: কানামাছি, লাটিম, ডাংগুলি, রুমাল চোর, এক্কা-দোক্কা (sources: Wikipedia Kanamachi, Daily Star "Playtime", Financial Express classic games). Next carousel (Fri) pillar: ফোনের লুকানো ট্রিক
+- Photos: Magnific connector not available this run → Higgsfield z_image (cheapest, 0.15 cr, 3:4), 8 jobs incl. 1 NSFW-flagged static (prompt changed to still life) + 1 regen (hopscotch looked like a ladder) ≈ 1.2 Higgsfield credits (~143 left)
+- Rendered files: static posts/2026-11-10_01_shobdo/01.jpg, carousel 01–07.jpg
+- Metricool: both scheduled FB+IG, autoPublish, PENDING (ids 422015827 @13:30, 422015864 @18:00)
