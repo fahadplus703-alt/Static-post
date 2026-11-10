@@ -63,3 +63,8 @@
 - Photos: Magnific connector not available this run → Higgsfield z_image (cheapest, 0.15 cr, 3:4), 8 jobs incl. 1 NSFW-flagged static (prompt changed to still life) + 1 regen (hopscotch looked like a ladder) ≈ 1.2 Higgsfield credits (~143 left)
 - Rendered files: static posts/2026-11-10_01_shobdo/01.jpg, carousel 01–07.jpg
 - Metricool: both scheduled FB+IG, autoPublish, PENDING (ids 422015827 @13:30, 422015864 @18:00)
+
+## 2026-11-11 (Wed — 1 static, no carousel)
+- 13:30 tip / মিথ নাকি সত্যি? — বাজ একই জায়গায় দুবার পড়ে না (মিথ: NOAA — lightning often strikes the same place repeatedly, esp. tall/pointy/isolated objects; Empire State Building hit 20+ times a year (NOAA figures cited 23–25/yr; older NOAA page said ~100) → caption says "২০ বারেরও বেশি"; safety line: don't shelter under lone tall trees, stay indoors; sources: NOAA lightningsafety myths page (archived), KSAT citing NOAA). Previous static was a fact post, so no answer reveal. No riddle. Next static type: engage. Next carousel (Fri) pillar: ফোনের লুকানো ট্রিক
+- Photo: Magnific connector not available this run → Higgsfield z_image (3:4), 1 image (lone coconut palm in paddy field + lightning, no regen) ≈ 0.15 Higgsfield credits (~143.6 left)
+- Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 423318907)
