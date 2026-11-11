@@ -68,3 +68,8 @@
 - 13:30 tip / মিথ নাকি সত্যি? — বাজ একই জায়গায় দুবার পড়ে না (মিথ: NOAA — lightning often strikes the same place repeatedly, esp. tall/pointy/isolated objects; Empire State Building hit 20+ times a year (NOAA figures cited 23–25/yr; older NOAA page said ~100) → caption says "২০ বারেরও বেশি"; safety line: don't shelter under lone tall trees, stay indoors; sources: NOAA lightningsafety myths page (archived), KSAT citing NOAA). Previous static was a fact post, so no answer reveal. No riddle. Next static type: engage. Next carousel (Fri) pillar: ফোনের লুকানো ট্রিক
 - Photo: Magnific connector not available this run → Higgsfield z_image (3:4), 1 image (lone coconut palm in paddy field + lightning, no regen) ≈ 0.15 Higgsfield credits (~143.6 left)
 - Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 423318907)
+
+## 2026-11-12 (Thu — 1 static, no carousel)
+- 13:30 engage / ইমোজি দেখে প্রবাদ চিনুন — 🐟 + 🛢️ ➜ 🍳🐟 (answer: মাছের তেলে মাছ ভাজা — নিজের খরচ ছাড়া, সেই জিনিস/মানুষের সম্পদ দিয়েই তার কাজ সারা; sources: bdnews24 kidz "মাছ নিয়ে যতো কথা" lists it among fish proverbs, eng-ban.com "to get without spending"). Photo (fish on banana leaf + kadai with oil) is the hint. Previous static was a myth post, so no answer reveal. Reveal tomorrow as "গতকালের উত্তর: মাছের তেলে মাছ ভাজা". Next static type: fact. Next carousel (Fri) pillar: ফোনের লুকানো ট্রিক
+- Photo: Magnific connector not available this run → Higgsfield z_image (3:4), 1 image (no regen) ≈ 0.15 Higgsfield credits (~16.7 left — balance much lower than logged before, top up soon)
+- Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 424589241)
