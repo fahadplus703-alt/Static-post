@@ -73,3 +73,9 @@
 - 13:30 engage / ইমোজি দেখে প্রবাদ চিনুন — 🐟 + 🛢️ ➜ 🍳🐟 (answer: মাছের তেলে মাছ ভাজা — নিজের খরচ ছাড়া, সেই জিনিস/মানুষের সম্পদ দিয়েই তার কাজ সারা; sources: bdnews24 kidz "মাছ নিয়ে যতো কথা" lists it among fish proverbs, eng-ban.com "to get without spending"). Photo (fish on banana leaf + kadai with oil) is the hint. Previous static was a myth post, so no answer reveal. Reveal tomorrow as "গতকালের উত্তর: মাছের তেলে মাছ ভাজা". Next static type: fact. Next carousel (Fri) pillar: ফোনের লুকানো ট্রিক
 - Photo: Magnific connector not available this run → Higgsfield z_image (3:4), 1 image (no regen) ≈ 0.15 Higgsfield credits (~16.7 left — balance much lower than logged before, top up soon)
 - Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 424589241)
+
+## 2026-11-13 (Fri — 1 static + carousel)
+- 13:30 fact / প্রবাদের গল্প — কাকতালীয় (Sanskrit কাকতালীয় ন্যায়: কাক তালগাছে বসল, ঠিক তখনই তাল পড়ল; দেখে মনে হয় কারণ, আসলে শুধু কাকতালীয় — coincidence / post hoc; sources: sanskrit.today "Nyaya: a crow and the palm fruit", Wiktionary/kaikki কাকতালীয়). Caption opens with গতকালের উত্তর: মাছের তেলে মাছ ভাজা. No riddle today. Next static type: tip (মিথ নাকি সত্যি?). (Dropped শাঁখের করাত — couldn't verify the "saw cuts both ways" origin.)
+- 18:00 carousel ফোনের লুকানো ট্রিক — Wi-Fi QR share (Android 10+), ছবি থেকে লেখা কপি (Live Text / Google Lens), wa.me/880… WhatsApp without saving number, iPhone DND Repeated Calls (৩ মিনিট), power button ×5 Emergency SOS (Android 12+) (sources: Android Central, PopSci, WhatsApp FAQ click-to-chat, Gadget Hacks, Google Android Help 9319337). Next carousel (Tue) pillar: বাংলাদেশের অচেনা ঘোরার জায়গা
+- Photos: Magnific connector not available this run → Higgsfield z_image (3:4), 9 jobs (7 + 2 regen: crow too small in static, garbled handwriting on slide 2) ≈ 1.35 Higgsfield credits (7.33 left — top up soon)
+- Metricool: both scheduled FB+IG, autoPublish, PENDING (ids 425857470 @13:30, 425857496 @18:00)
