@@ -79,3 +79,8 @@
 - 18:00 carousel ফোনের লুকানো ট্রিক — Wi-Fi QR share (Android 10+), ছবি থেকে লেখা কপি (Live Text / Google Lens), wa.me/880… WhatsApp without saving number, iPhone DND Repeated Calls (৩ মিনিট), power button ×5 Emergency SOS (Android 12+) (sources: Android Central, PopSci, WhatsApp FAQ click-to-chat, Gadget Hacks, Google Android Help 9319337). Next carousel (Tue) pillar: বাংলাদেশের অচেনা ঘোরার জায়গা
 - Photos: Magnific connector not available this run → Higgsfield z_image (3:4), 9 jobs (7 + 2 regen: crow too small in static, garbled handwriting on slide 2) ≈ 1.35 Higgsfield credits (7.33 left — top up soon)
 - Metricool: both scheduled FB+IG, autoPublish, PENDING (ids 425857470 @13:30, 425857496 @18:00)
+
+## 2026-11-14 (Sat — 1 static, no carousel)
+- 13:30 tip / মিথ নাকি সত্যি? — ভয় পেলে উটপাখি বালিতে মাথা লুকায় (মিথ: মাটির গর্তে ডিম পাড়ে, দিনে কয়েকবার ঠোঁট দিয়ে ডিম উল্টায় → দূর থেকে মাথা গোঁজা মনে হয়; বিপদে ~৭০ কিমি/ঘণ্টা দৌড়ায় বা গলা লম্বা করে মাটিতে শুয়ে পড়ে; মিথের উৎস সম্ভবত Pliny the Elder; sources: Live Science, BBC Science Focus). Previous static was a fact post, so no answer reveal. No riddle. Next static type: engage. Next carousel (Tue) pillar: বাংলাদেশের অচেনা ঘোরার জায়গা
+- Photo: Magnific flux-2-klein, 1 image (ostrich turning eggs in sand nest, no regen; crop center 92%) = 10 credits (only 4 Magnific credits left now → next runs will need Higgsfield/top-up)
+- Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 427144926)
