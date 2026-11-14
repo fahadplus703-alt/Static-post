@@ -84,3 +84,8 @@
 - 13:30 tip / মিথ নাকি সত্যি? — ভয় পেলে উটপাখি বালিতে মাথা লুকায় (মিথ: মাটির গর্তে ডিম পাড়ে, দিনে কয়েকবার ঠোঁট দিয়ে ডিম উল্টায় → দূর থেকে মাথা গোঁজা মনে হয়; বিপদে ~৭০ কিমি/ঘণ্টা দৌড়ায় বা গলা লম্বা করে মাটিতে শুয়ে পড়ে; মিথের উৎস সম্ভবত Pliny the Elder; sources: Live Science, BBC Science Focus). Previous static was a fact post, so no answer reveal. No riddle. Next static type: engage. Next carousel (Tue) pillar: বাংলাদেশের অচেনা ঘোরার জায়গা
 - Photo: Magnific flux-2-klein, 1 image (ostrich turning eggs in sand nest, no regen; crop center 92%) = 10 credits (only 4 Magnific credits left now → next runs will need Higgsfield/top-up)
 - Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 427144926)
+
+## 2026-11-15 (Sun — 1 static, no carousel)
+- 13:30 engage / ছোট অংক-পাজল — ব্যাট + বল = ১১০ টাকা, ব্যাট বলের চেয়ে ১০০ টাকা বেশি; বলের দাম কত? (answer: ৫ টাকা — ব্যাট ১০৫ টাকা; ১০ টাকা হলে ব্যাট ১১০, মোট ১২০. Shane Frederick's Cognitive Reflection Test 2005; ≥50% of Harvard/MIT/Princeton students answered wrong; sources: Frederick 2005 CRT paper, CNBC/NBC "people almost always get this wrong"). Previous static was a myth post, so no answer reveal. Reveal tomorrow as "গতকালের উত্তর: ৫ টাকা (ব্যাট ১০৫)". Next static type: fact. Next carousel (Tue) pillar: বাংলাদেশের অচেনা ঘোরার জায়গা
+- Photo: Magnific only 4 credits → Higgsfield z_image (3:4), 1 image (bat + tennis ball by brick wall; small fake logo on bat inpainted out; crop center 88%) ≈ 0.15 Higgsfield credits (~0.18 left — BOTH image accounts nearly empty, top up before next run)
+- Metricool: scheduled FB+IG 13:30, autoPublish, PENDING (id 428101070)
